@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone 2 - Task Challenge", "Capstone 2 - Task Challenge\Capstone 2 - Task Challenge.csproj", "{3F1E3D19-F7DE-47D0-9364-361E840E79A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1E3D19-F7DE-47D0-9364-361E840E79A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1E3D19-F7DE-47D0-9364-361E840E79A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E3D19-F7DE-47D0-9364-361E840E79A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1E3D19-F7DE-47D0-9364-361E840E79A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2026076-E80C-4CAC-886B-7280489F17E5}
+	EndGlobalSection
+EndGlobal

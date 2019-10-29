@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Capstone 2 - Task Challenge/1.0.0": {
+        "runtime": {
+          "Capstone 2 - Task Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capstone 2 - Task Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

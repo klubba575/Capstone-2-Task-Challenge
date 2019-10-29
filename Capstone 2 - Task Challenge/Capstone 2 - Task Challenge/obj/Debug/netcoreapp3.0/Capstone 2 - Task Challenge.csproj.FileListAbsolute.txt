@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.exe
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.deps.json
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.runtimeconfig.json
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.runtimeconfig.dev.json
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.dll
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\bin\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.pdb
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\obj\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\obj\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\obj\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.AssemblyInfo.cs
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\obj\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.dll
+C:\Users\Andy Wilder\source\repos\Capstone 2 - Task Challenge\Capstone 2 - Task Challenge\obj\Debug\netcoreapp3.0\Capstone 2 - Task Challenge.pdb
